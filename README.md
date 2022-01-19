@@ -11,6 +11,12 @@ Trie is a data structure that have capability to manage dictionary words with le
 
 ![Trie Data Structure](samplePics/smapleTrie.png)
 
+So we manged to implement a dictionary using Trie. 
+* You can add words and synonyms to the Dictionary.
+* You can search words in the dictionary
+
+![sampleOutput](samplePics/output.png)
+
 ## Getting Started
 
 ### Dependencies
